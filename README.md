@@ -14,8 +14,8 @@ This is an old project I started many years ago in Pascal Programming Language, 
 ### Prerequisites
 
 - Java JDK
-- Python 3.x
-- Matplotlib (Python library)
+- Python 3.x using library called Matplotlib
+- Pascal
 
 ### Running the Java Program
 
