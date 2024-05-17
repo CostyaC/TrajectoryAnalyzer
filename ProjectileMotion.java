@@ -46,8 +46,11 @@ public class ProjectileMotion {
             s = i; // Total number of iterations
 
             // Write total number of iterations to OUT.txt
-            writer.print(s);
+            if (s != i) {
+                writer.println(s);
+                }
             System.out.println("Output saved to 'OUT.txt'.");
+
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -58,9 +61,4 @@ public class ProjectileMotion {
         }
     }
 	
-	
-	
-	
-	
-
 }
