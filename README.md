@@ -24,13 +24,12 @@ This is an old project I started many years ago in Pascal Programming Language, 
    javac src/PascalProject/ProjectileMotion.java
 
 2. waiting for the user input for the following Values :
+
+```bash
+
 Vinit - initial Velocity
 Angle - the angle to which the object is going to be thrown
-and the dx parameter represents the increment in the distance x for each iteration of the loop.
-
-3. After the values are read from the keyboard, an output is going to be shown into the console and also saved as output data to a file called "OUT.txt"
-
-4. Linking Visual Code & Python
+and the dx parameter represents the increment in the distance x for each iteration of the loop. 
 
 
 
