@@ -32,3 +32,22 @@ Angle - the angle to which the object is going to be thrown
 dx    - parameter represents the increment in the distance x for each iteration of the loop.
 ```
 3. Once the values are read from the keyboard an output is going to be generated and shown into the console. The output data is also saved into a file called "OUT.txt"
+
+4. Linking Java & Visual Code
+
+After the output data is created, the file OUT.txt has now a location into my system. After having the data into a file, now it comes to plotting the graph. For plotting the graph of the trajectory I used Visual Code as IDE but the graph itself was done by using python implementation. For locating the the output data done bu Java I've used the following line of code :
+
+```bash
+output_file_path = "C:/Users/koste/Desktop/My FolderS/MyOwnFolderS/Engineering_FoldeR/Pascal/Pascal&Java/Trajectory/OUT.txt"
+```
+Basically, this is the main line which tells Python where to find the data output from Java. And based on this data a graph was plotted. 
+
+4.1. To Sum up, The main data and main code implementation were done in Java, and whenever Java outputs something different based in the user input as well, the graph will look accordingly. 
+
+5. These are the described steps for this project I started many years ago in Pascal.
+
+
+
+
+
+
