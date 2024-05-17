@@ -30,3 +30,5 @@ This is an old project I started many years ago in Pascal Programming Language, 
 Vinit - initial Velocity
 Angle - the angle to which the object is going to be thrown
 dx    - parameter represents the increment in the distance x for each iteration of the loop.
+```
+3. Once the values are read from the keyboard an output is going to be generated and shown into the console. The output data is also saved into a file called "OUT.txt"
