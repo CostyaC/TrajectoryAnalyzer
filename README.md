@@ -29,4 +29,15 @@ This is an old project I started many years ago in Pascal Programming Language, 
 
 Vinit - initial Velocity
 Angle - the angle to which the object is going to be thrown
-dx    - parameter represents the increment in the distance x for each iteration of the loop. 
+dx    - parameter represents the increment in the distance x for each iteration of the loop.
+
+3. **Run the Java program:**
+   - Once the program is compiled, you can run it using the following command:
+     ```
+     java -classpath src PascalProject.ProjectileMotion
+     ```
+   - After running the program, it will prompt you to enter the values for `Vinit`, `Angle`, and `dx`.
+
+4. **Interacting with the Java program:**
+   - When prompted, enter the required values for `Vinit`, `Angle`, and `dx` as specified by the program.
+   - Follow the on-screen instructions to proceed with the simulation.
