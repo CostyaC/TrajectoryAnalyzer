@@ -30,7 +30,3 @@ This is an old project I started many years ago in Pascal Programming Language, 
 Vinit - initial Velocity
 Angle - the angle to which the object is going to be thrown
 and the dx parameter represents the increment in the distance x for each iteration of the loop. 
-
-
-
-
