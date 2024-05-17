@@ -1,9 +1,7 @@
-# TrajectoryAnalyzer
-This is an old project I started many years ago in Pascal Programming Language, but now I've adapted it using Java and Python.
-
 # Trajectory Analyser
 
-Trajectory Analyser is a Java-based project that simulates the motion of a projectile and plots its trajectory. The program calculates the height and distance of a projectile at various time intervals and visualizes the trajectory using a Python script with Matplotlib.
+This is an old project I started many years ago in Pascal Programming Language, but now I've adapted it using Java and Python.
+   Trajectory Analyser is a Java-based project that simulates the motion of a projectile and plots its trajectory. The program calculates the height and distance of a projectile at various time intervals and visualizes the trajectory using a Python script with Matplotlib.
 
 ## Features
 
